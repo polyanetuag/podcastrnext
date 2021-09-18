@@ -1,5 +1,6 @@
 <div align="center">
-  <img width= '150' src="./public/logo.svg" />
+  <img width= '170' src="./public/logo.svg" />
+  <br></br>
   <img width= '800' src="./public/interface.gif" />
 </div>
 
