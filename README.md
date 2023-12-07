@@ -3,10 +3,7 @@
 <!--   <br></br> -->
   <h1>Podcast da Rockeatseat</h1>
 <!--   <br></br> -->
-  <img width= '800' src="./public/interface.gif" />
-</div>
-
-<h3 align="center">  
+  <h3 align="center">  
   <p align="center">
     <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,6 +11,11 @@
     <a href="#-licença">Licença</a>
   </p>
 </h3>
+  
+  <img width= '800' src="./public/interface.gif" />
+</div>
+
+
 
 ## 📚 Sobre
 
