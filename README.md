@@ -1,8 +1,6 @@
 <div align="center">
   <img width= '170' src="./public/logo.svg" />
-<!--   <br></br> -->
   <h1>Podcast da Rockeatseat</h1>
-<!--   <br></br> -->
   <h3 align="center">  
   <p align="center">
     <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
