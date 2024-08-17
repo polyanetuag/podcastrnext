@@ -15,7 +15,7 @@
 
 ## 📚 Sobre
 
-O projeto consiste em uma plataforma que contém uma listagem de episódios de podcasts da ***Rocketseat***.
+O projeto consiste em uma plataforma que contém a listagem de episódios de podcasts da ***Rocketseat***.
 
 Cada episódio possui uma página própria com mais detalhes e informações, além de um player básico para ouvir o podcast.
 
