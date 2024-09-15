@@ -21,8 +21,8 @@ Cada episódio possui uma página própria trazendo mais detalhes e informaçõe
 
 ## 🚀 Tecnologias utilizadas:
 
-- ReactJS
-- NextJS
+- [ReactJS](https://react.dev/)
+- [NextJS](https://nextjs.org/)
 - Typescript
 - NodeJs
 - Sass
