@@ -23,7 +23,7 @@ Cada episódio possui uma página própria trazendo mais detalhes e informaçõe
 
 - [ReactJS](https://react.dev/)
 - [NextJS](https://nextjs.org/)
-- Typescript
+- [Typescript](https://www.typescriptlang.org/)
 - NodeJs
 - Sass
 - rc-slider
