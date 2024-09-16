@@ -24,7 +24,7 @@ Cada episódio possui uma página própria trazendo mais detalhes e informaçõe
 - [ReactJS](https://react.dev/)
 - [NextJS](https://nextjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- NodeJs
+- [NodeJs](https://nodejs.org/pt)
 - Sass
 - rc-slider
 - date-fns
