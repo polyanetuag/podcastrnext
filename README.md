@@ -27,7 +27,7 @@ Cada episódio possui uma página própria trazendo mais detalhes e informaçõe
 - [NodeJs](https://nodejs.org/pt)
 - [Sass](https://sass-lang.com/)
 - [rc-slider](https://www.npmjs.com/package/rc-slider)
-- date-fns
+- [date-fns](https://date-fns.org/)
 
 ## ⏱ Como executar
 
